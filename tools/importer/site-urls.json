@@ -318,5 +318,6 @@
     "keepHash": false,
     "strategy": "crawl",
     "logger": {}
-  }
+  },
+  "extractionErrors": []
 }
