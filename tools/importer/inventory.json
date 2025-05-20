@@ -1,0 +1,3848 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics",
+          "urlHash": "016917ec214d7bd50c77f8a0034a8208dcedf779",
+          "uuid": "016917ec-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg",
+          "urlHash": "0a2d6f02c8a7d3420bac5b54796d47f0bca36521",
+          "uuid": "0a2d6f02-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/adani-foundation",
+          "urlHash": "2b3ed15c4d3acef5c2c80c16b55f9aa8bca16f34",
+          "uuid": "2b3ed15c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability/board-structure-and-governance",
+          "urlHash": "2b57c043ec40d8c58a4d068bdc6868aa8b2ef73e",
+          "uuid": "2b57c043-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+          "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+          "uuid": "337a5b34-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+          "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+          "uuid": "340186ab-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/downloads",
+          "urlHash": "347b955fa6448d873c5464c87f72cb798547fd6c",
+          "uuid": "347b955f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/natural-resources",
+          "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+          "uuid": "3a8b0d56-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/airports",
+          "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+          "uuid": "3e98e9bc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities",
+          "urlHash": "469db751759b59e7fe9ab03325b024c3be896444",
+          "uuid": "469db751-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/disclaimer",
+          "urlHash": "57d2a54478e05c741ff83f5e6f8e01de3cdde010",
+          "uuid": "57d2a544-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/digital-services",
+          "urlHash": "6f5a55537d1393b6cb9c2952840a763ed6b98737",
+          "uuid": "6f5a5553-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+          "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+          "uuid": "72091ddd-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/ports",
+          "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+          "uuid": "74899984-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/privacy-policy",
+          "urlHash": "80a0f69abf8b0d6ca09cac3ce5bedc175fde98dc",
+          "uuid": "80a0f69a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure",
+          "urlHash": "824f2bb9d79405dd512336072863b94367132a25",
+          "uuid": "824f2bb9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media",
+          "urlHash": "87c781e5553550aeb28666374ceb2e153ccee6ba",
+          "uuid": "87c781e5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+          "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+          "uuid": "894b2258-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/about-us/chairman-office",
+          "urlHash": "917f933356475ebf67b932b1c951bdce0807cf3e",
+          "uuid": "917f9333-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+          "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+          "uuid": "92d4a8f4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports/adani-sportsline",
+          "urlHash": "9d9fb351c3f2de524f5aaf2b617c44389087449d",
+          "uuid": "9d9fb351-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+          "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+          "uuid": "9e61c60d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/water-treatment-plants",
+          "urlHash": "a38aa97607197acc2f8fb53cc6fdbb998741c0d7",
+          "uuid": "a38aa976-00-891822391030f0a93b128dea75da2db8acab7b9d",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[3]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/gas",
+          "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+          "uuid": "a91f7b48-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/broadcasting",
+          "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+          "uuid": "b3aca118-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-hydrogen",
+          "urlHash": "b6ff9349f57682971991d334fff73e09e8bdec6b",
+          "uuid": "b6ff9349-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/solar-manufacturing",
+          "urlHash": "b9d39ae7ef3ab39e03e98f5a46dad17f5a32e183",
+          "uuid": "b9d39ae7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/copper",
+          "urlHash": "bcb7b5d7bb4db59529ec85a0d8d085a464e91c79",
+          "uuid": "bcb7b5d7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/wind-turbine",
+          "urlHash": "c105c8e85fd38a927a13a8233fa098dcd827c7a4",
+          "uuid": "c105c8e8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/pvc",
+          "urlHash": "e1169767ad5d73dd79804e37c612359c246513bc",
+          "uuid": "e1169767-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/edible-oils-food",
+          "urlHash": "e299386d52b5a0538c87fcb04340f3577f183408",
+          "uuid": "e299386d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/real-estate/adani-realty",
+          "urlHash": "e8fa773dacc57e5d7b184e63a3e0bba4d930a33e",
+          "uuid": "e8fa773d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials",
+          "urlHash": "ea92c9efbdf6122b53f19b508ae9dcc877ce2f91",
+          "uuid": "ea92c9ef-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+          "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+          "uuid": "efa713e4-00-358cb063dec666dfdf141050924b36c4062ef72f",
+          "xpath": "/html[1]/body[1]/header[1]/div[3]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/contact-us",
+          "urlHash": "f26da2ca13773def7dec2737df971bcb75519c99",
+          "uuid": "f26da2ca-00-891822391030f0a93b128dea75da2db8acab7b9d",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[3]"
+        },
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport",
+          "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+          "uuid": "f6def6dd-00-358cb063dec666dfdf141050924b36c4062ef72f",
+          "xpath": "/html[1]/body[1]/header[1]/div[3]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports",
+          "urlHash": "f9e2c1920bea64f38945617b508ede917d5b8495",
+          "uuid": "f9e2c192-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics",
+          "urlHash": "016917ec214d7bd50c77f8a0034a8208dcedf779",
+          "uuid": "016917ec-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-12-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-15-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg",
+          "urlHash": "0a2d6f02c8a7d3420bac5b54796d47f0bca36521",
+          "uuid": "0a2d6f02-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-12-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/adani-foundation",
+          "urlHash": "2b3ed15c4d3acef5c2c80c16b55f9aa8bca16f34",
+          "uuid": "2b3ed15c-06-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability/board-structure-and-governance",
+          "urlHash": "2b57c043ec40d8c58a4d068bdc6868aa8b2ef73e",
+          "uuid": "2b57c043-03-7c693ec0a7b05539cf3f89db4fe0a8f6437402d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]/h3[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+          "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+          "uuid": "337a5b34-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+          "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+          "uuid": "340186ab-08-26022a2a9d01ea0379e3f0c6eb2717d1633456ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]"
+        },
+        {
+          "url": "https://www.adani.com/downloads",
+          "urlHash": "347b955fa6448d873c5464c87f72cb798547fd6c",
+          "uuid": "347b955f-02-6009e1dcad00470412cf10db00b87ec2e82f6baf",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/natural-resources",
+          "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+          "uuid": "3a8b0d56-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/airports",
+          "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+          "uuid": "3e98e9bc-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities",
+          "urlHash": "469db751759b59e7fe9ab03325b024c3be896444",
+          "uuid": "469db751-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/disclaimer",
+          "urlHash": "57d2a54478e05c741ff83f5e6f8e01de3cdde010",
+          "uuid": "57d2a544-04-7dd7e8da58f1bfbb964ff13186f842d2364fe278",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[3]/p[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/digital-services",
+          "urlHash": "6f5a55537d1393b6cb9c2952840a763ed6b98737",
+          "uuid": "6f5a5553-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+          "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+          "uuid": "72091ddd-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/ports",
+          "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+          "uuid": "74899984-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-13-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/privacy-policy",
+          "urlHash": "80a0f69abf8b0d6ca09cac3ce5bedc175fde98dc",
+          "uuid": "80a0f69a-02-08417f59beb91cbd15afdd80babdce644769382f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure",
+          "urlHash": "824f2bb9d79405dd512336072863b94367132a25",
+          "uuid": "824f2bb9-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media",
+          "urlHash": "87c781e5553550aeb28666374ceb2e153ccee6ba",
+          "uuid": "87c781e5-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+          "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+          "uuid": "894b2258-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-15-5de2f1561178cb52fb2c7d290a6a6acb8c32c41d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[13]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-13-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-16-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/about-us/chairman-office",
+          "urlHash": "917f933356475ebf67b932b1c951bdce0807cf3e",
+          "uuid": "917f9333-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+          "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+          "uuid": "92d4a8f4-09-1d7215029578ab21856a5c633c205edf200fe657",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports/adani-sportsline",
+          "urlHash": "9d9fb351c3f2de524f5aaf2b617c44389087449d",
+          "uuid": "9d9fb351-05-af38ea522d1de736a6b72dc6c8aaff6be42a5c07",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+          "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+          "uuid": "9e61c60d-09-1d7215029578ab21856a5c633c205edf200fe657",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/water-treatment-plants",
+          "urlHash": "a38aa97607197acc2f8fb53cc6fdbb998741c0d7",
+          "uuid": "a38aa976-01-e078b13dcc3ae3362e863ffd96bf4355ada12a55",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[4]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-15-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/gas",
+          "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+          "uuid": "a91f7b48-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/broadcasting",
+          "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+          "uuid": "b3aca118-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-hydrogen",
+          "urlHash": "b6ff9349f57682971991d334fff73e09e8bdec6b",
+          "uuid": "b6ff9349-02-405cac18a72b498f7f35135f9699f137b23d6a49",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[2]"
+        },
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-11-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/solar-manufacturing",
+          "urlHash": "b9d39ae7ef3ab39e03e98f5a46dad17f5a32e183",
+          "uuid": "b9d39ae7-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-12-e6e293524dfc5a4bd7cbd930057e9766a8aa7ea6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[8]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/copper",
+          "urlHash": "bcb7b5d7bb4db59529ec85a0d8d085a464e91c79",
+          "uuid": "bcb7b5d7-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/wind-turbine",
+          "urlHash": "c105c8e85fd38a927a13a8233fa098dcd827c7a4",
+          "uuid": "c105c8e8-04-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/pvc",
+          "urlHash": "e1169767ad5d73dd79804e37c612359c246513bc",
+          "uuid": "e1169767-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/edible-oils-food",
+          "urlHash": "e299386d52b5a0538c87fcb04340f3577f183408",
+          "uuid": "e299386d-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-09-75dad22e08b4998947e3cade07a00b8dca31d599",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-12-e6e293524dfc5a4bd7cbd930057e9766a8aa7ea6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[8]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-15-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/real-estate/adani-realty",
+          "urlHash": "e8fa773dacc57e5d7b184e63a3e0bba4d930a33e",
+          "uuid": "e8fa773d-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials",
+          "urlHash": "ea92c9efbdf6122b53f19b508ae9dcc877ce2f91",
+          "uuid": "ea92c9ef-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+          "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+          "uuid": "efa713e4-13-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/contact-us",
+          "urlHash": "f26da2ca13773def7dec2737df971bcb75519c99",
+          "uuid": "f26da2ca-01-e078b13dcc3ae3362e863ffd96bf4355ada12a55",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[4]"
+        },
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport",
+          "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+          "uuid": "f6def6dd-18-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports",
+          "urlHash": "f9e2c1920bea64f38945617b508ede917d5b8495",
+          "uuid": "f9e2c192-05-af38ea522d1de736a6b72dc6c8aaff6be42a5c07",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Hero",
+      "cluster": 1,
+      "source": "Hero",
+      "target": "Hero (hero1)",
+      "key": "hero1",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-06-2e8fcdb41dd14046de159b35e6a468f673612818",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-06-2e8fcdb41dd14046de159b35e6a468f673612818",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-09-2e8fcdb41dd14046de159b35e6a468f673612818",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 2,
+      "source": "Hero",
+      "target": "Hero (hero2)",
+      "key": "hero2",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-04-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 3,
+      "source": "Table (no header)",
+      "target": "Table (no header, tableNoHeader3)",
+      "key": "tableNoHeader3",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-08-18baa2c0b37bd0bc32ed65763b08f929e5479137",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-10-03c5d8543f2d87ec6b3ca4cb70e544b3617ea208",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/adani-foundation",
+          "urlHash": "2b3ed15c4d3acef5c2c80c16b55f9aa8bca16f34",
+          "uuid": "2b3ed15c-05-6f47e0c056ac9dea58afbaebffa8c7a6cea39bee",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/airports",
+          "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+          "uuid": "3e98e9bc-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+          "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+          "uuid": "72091ddd-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/ports",
+          "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+          "uuid": "74899984-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-10-03c5d8543f2d87ec6b3ca4cb70e544b3617ea208",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+          "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+          "uuid": "894b2258-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-06-1c84e8373aa1760c8e543ad47203ac65070c04e4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-08-18baa2c0b37bd0bc32ed65763b08f929e5479137",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+          "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+          "uuid": "92d4a8f4-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+          "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+          "uuid": "9e61c60d-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/gas",
+          "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+          "uuid": "a91f7b48-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/broadcasting",
+          "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+          "uuid": "b3aca118-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/solar-manufacturing",
+          "urlHash": "b9d39ae7ef3ab39e03e98f5a46dad17f5a32e183",
+          "uuid": "b9d39ae7-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/copper",
+          "urlHash": "bcb7b5d7bb4db59529ec85a0d8d085a464e91c79",
+          "uuid": "bcb7b5d7-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-05-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-09-18baa2c0b37bd0bc32ed65763b08f929e5479137",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-11-03c5d8543f2d87ec6b3ca4cb70e544b3617ea208",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (social)",
+      "cluster": 4,
+      "source": "Embed",
+      "target": "Embed (embedSocial4)",
+      "key": "embedSocial4",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics",
+          "urlHash": "016917ec214d7bd50c77f8a0034a8208dcedf779",
+          "uuid": "016917ec-02-9a647bc58a28b2b2c9102de47ae3f7d7fc0fe8ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg",
+          "urlHash": "0a2d6f02c8a7d3420bac5b54796d47f0bca36521",
+          "uuid": "0a2d6f02-02-9a647bc58a28b2b2c9102de47ae3f7d7fc0fe8ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities",
+          "urlHash": "469db751759b59e7fe9ab03325b024c3be896444",
+          "uuid": "469db751-02-9a647bc58a28b2b2c9102de47ae3f7d7fc0fe8ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure",
+          "urlHash": "824f2bb9d79405dd512336072863b94367132a25",
+          "uuid": "824f2bb9-02-9a647bc58a28b2b2c9102de47ae3f7d7fc0fe8ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media",
+          "urlHash": "87c781e5553550aeb28666374ceb2e153ccee6ba",
+          "uuid": "87c781e5-02-9a647bc58a28b2b2c9102de47ae3f7d7fc0fe8ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials",
+          "urlHash": "ea92c9efbdf6122b53f19b508ae9dcc877ce2f91",
+          "uuid": "ea92c9ef-02-9a647bc58a28b2b2c9102de47ae3f7d7fc0fe8ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/adani-foundation",
+          "urlHash": "2b3ed15c4d3acef5c2c80c16b55f9aa8bca16f34",
+          "uuid": "2b3ed15c-06-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+          "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+          "uuid": "337a5b34-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/airports",
+          "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+          "uuid": "3e98e9bc-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+          "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+          "uuid": "72091ddd-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/gas",
+          "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+          "uuid": "a91f7b48-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/solar-manufacturing",
+          "urlHash": "b9d39ae7ef3ab39e03e98f5a46dad17f5a32e183",
+          "uuid": "b9d39ae7-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/edible-oils-food",
+          "urlHash": "e299386d52b5a0538c87fcb04340f3577f183408",
+          "uuid": "e299386d-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-08-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 6,
+      "source": "Carousel",
+      "target": "Carousel (carousel6)",
+      "key": "carousel6",
+      "instances": [
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-05-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-08-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 7,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered7)",
+      "key": "tableStripedBordered7",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/adani-foundation",
+          "urlHash": "2b3ed15c4d3acef5c2c80c16b55f9aa8bca16f34",
+          "uuid": "2b3ed15c-04-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+          "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+          "uuid": "337a5b34-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+          "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+          "uuid": "340186ab-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/natural-resources",
+          "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+          "uuid": "3a8b0d56-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/natural-resources",
+          "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+          "uuid": "3a8b0d56-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/airports",
+          "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+          "uuid": "3e98e9bc-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/digital-services",
+          "urlHash": "6f5a55537d1393b6cb9c2952840a763ed6b98737",
+          "uuid": "6f5a5553-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+          "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+          "uuid": "72091ddd-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/ports",
+          "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+          "uuid": "74899984-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+          "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+          "uuid": "894b2258-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+          "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+          "uuid": "894b2258-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+          "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+          "uuid": "92d4a8f4-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+          "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+          "uuid": "9e61c60d-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/gas",
+          "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+          "uuid": "a91f7b48-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/broadcasting",
+          "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+          "uuid": "b3aca118-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/solar-manufacturing",
+          "urlHash": "b9d39ae7ef3ab39e03e98f5a46dad17f5a32e183",
+          "uuid": "b9d39ae7-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/copper",
+          "urlHash": "bcb7b5d7bb4db59529ec85a0d8d085a464e91c79",
+          "uuid": "bcb7b5d7-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/copper",
+          "urlHash": "bcb7b5d7bb4db59529ec85a0d8d085a464e91c79",
+          "uuid": "bcb7b5d7-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/wind-turbine",
+          "urlHash": "c105c8e85fd38a927a13a8233fa098dcd827c7a4",
+          "uuid": "c105c8e8-04-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/pvc",
+          "urlHash": "e1169767ad5d73dd79804e37c612359c246513bc",
+          "uuid": "e1169767-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/edible-oils-food",
+          "urlHash": "e299386d52b5a0538c87fcb04340f3577f183408",
+          "uuid": "e299386d-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-04-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/real-estate/adani-realty",
+          "urlHash": "e8fa773dacc57e5d7b184e63a3e0bba4d930a33e",
+          "uuid": "e8fa773d-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-10-68941bd8fb7824ae860b2b3eef2593a51a732e14",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-11-1c4c8a40ec2f9925e9859fa84b6218d292cc77bf",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-12-31803d0e23115169aa4063e46b38a7f2e9cb00ab",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-13-4cc9e486051ab8bc5b37c6fa0e82b23ebd1d3cfa",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-14-9f67911dfce58aa963c04febbb5fb7a3015c7da2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[11]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-15-5de2f1561178cb52fb2c7d290a6a6acb8c32c41d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[13]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-06-30dabc9ab5e6b09b97abcb6c1e2b5fb5830a782d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[4]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 10,
+      "source": "Cards",
+      "target": "Cards (cards10)",
+      "key": "cards10",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics",
+          "urlHash": "016917ec214d7bd50c77f8a0034a8208dcedf779",
+          "uuid": "016917ec-03-50520e1d13615299e8c919e1be0ed330cd6108f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg",
+          "urlHash": "0a2d6f02c8a7d3420bac5b54796d47f0bca36521",
+          "uuid": "0a2d6f02-03-50520e1d13615299e8c919e1be0ed330cd6108f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure",
+          "urlHash": "824f2bb9d79405dd512336072863b94367132a25",
+          "uuid": "824f2bb9-03-50520e1d13615299e8c919e1be0ed330cd6108f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media",
+          "urlHash": "87c781e5553550aeb28666374ceb2e153ccee6ba",
+          "uuid": "87c781e5-03-50520e1d13615299e8c919e1be0ed330cd6108f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials",
+          "urlHash": "ea92c9efbdf6122b53f19b508ae9dcc877ce2f91",
+          "uuid": "ea92c9ef-03-50520e1d13615299e8c919e1be0ed330cd6108f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 11,
+      "source": "Carousel",
+      "target": "Carousel (carousel11)",
+      "key": "carousel11",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-03-c5570f16c76baa0e051ba61728e332fdc1b2faba",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-02-c5570f16c76baa0e051ba61728e332fdc1b2faba",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/adani-foundation",
+          "urlHash": "2b3ed15c4d3acef5c2c80c16b55f9aa8bca16f34",
+          "uuid": "2b3ed15c-01-c5570f16c76baa0e051ba61728e332fdc1b2faba",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 12,
+      "source": "Embed",
+      "target": "Embed (embedVideo12)",
+      "key": "embedVideo12",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics",
+          "urlHash": "016917ec214d7bd50c77f8a0034a8208dcedf779",
+          "uuid": "016917ec-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg",
+          "urlHash": "0a2d6f02c8a7d3420bac5b54796d47f0bca36521",
+          "uuid": "0a2d6f02-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/adani-foundation",
+          "urlHash": "2b3ed15c4d3acef5c2c80c16b55f9aa8bca16f34",
+          "uuid": "2b3ed15c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability/board-structure-and-governance",
+          "urlHash": "2b57c043ec40d8c58a4d068bdc6868aa8b2ef73e",
+          "uuid": "2b57c043-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+          "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+          "uuid": "337a5b34-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+          "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+          "uuid": "340186ab-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/downloads",
+          "urlHash": "347b955fa6448d873c5464c87f72cb798547fd6c",
+          "uuid": "347b955f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/natural-resources",
+          "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+          "uuid": "3a8b0d56-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/airports",
+          "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+          "uuid": "3e98e9bc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities",
+          "urlHash": "469db751759b59e7fe9ab03325b024c3be896444",
+          "uuid": "469db751-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/disclaimer",
+          "urlHash": "57d2a54478e05c741ff83f5e6f8e01de3cdde010",
+          "uuid": "57d2a544-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/digital-services",
+          "urlHash": "6f5a55537d1393b6cb9c2952840a763ed6b98737",
+          "uuid": "6f5a5553-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+          "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+          "uuid": "72091ddd-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/ports",
+          "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+          "uuid": "74899984-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/privacy-policy",
+          "urlHash": "80a0f69abf8b0d6ca09cac3ce5bedc175fde98dc",
+          "uuid": "80a0f69a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure",
+          "urlHash": "824f2bb9d79405dd512336072863b94367132a25",
+          "uuid": "824f2bb9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media",
+          "urlHash": "87c781e5553550aeb28666374ceb2e153ccee6ba",
+          "uuid": "87c781e5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+          "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+          "uuid": "894b2258-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/about-us/chairman-office",
+          "urlHash": "917f933356475ebf67b932b1c951bdce0807cf3e",
+          "uuid": "917f9333-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+          "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+          "uuid": "92d4a8f4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports/adani-sportsline",
+          "urlHash": "9d9fb351c3f2de524f5aaf2b617c44389087449d",
+          "uuid": "9d9fb351-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+          "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+          "uuid": "9e61c60d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/gas",
+          "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+          "uuid": "a91f7b48-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/broadcasting",
+          "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+          "uuid": "b3aca118-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-hydrogen",
+          "urlHash": "b6ff9349f57682971991d334fff73e09e8bdec6b",
+          "uuid": "b6ff9349-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/solar-manufacturing",
+          "urlHash": "b9d39ae7ef3ab39e03e98f5a46dad17f5a32e183",
+          "uuid": "b9d39ae7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/copper",
+          "urlHash": "bcb7b5d7bb4db59529ec85a0d8d085a464e91c79",
+          "uuid": "bcb7b5d7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/wind-turbine",
+          "urlHash": "c105c8e85fd38a927a13a8233fa098dcd827c7a4",
+          "uuid": "c105c8e8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/pvc",
+          "urlHash": "e1169767ad5d73dd79804e37c612359c246513bc",
+          "uuid": "e1169767-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/edible-oils-food",
+          "urlHash": "e299386d52b5a0538c87fcb04340f3577f183408",
+          "uuid": "e299386d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/real-estate/adani-realty",
+          "urlHash": "e8fa773dacc57e5d7b184e63a3e0bba4d930a33e",
+          "uuid": "e8fa773d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials",
+          "urlHash": "ea92c9efbdf6122b53f19b508ae9dcc877ce2f91",
+          "uuid": "ea92c9ef-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports",
+          "urlHash": "f9e2c1920bea64f38945617b508ede917d5b8495",
+          "uuid": "f9e2c192-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+          "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+          "uuid": "efa713e4-11-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport",
+          "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+          "uuid": "f6def6dd-16-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 14,
+      "source": "Hero",
+      "target": "Hero (hero14)",
+      "key": "hero14",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-13-63bcada040a16a72fd02db803e4bc00cb86d964c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-11-63bcada040a16a72fd02db803e4bc00cb86d964c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-11-63bcada040a16a72fd02db803e4bc00cb86d964c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+          "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+          "uuid": "337a5b34-06-318132cbb35ad37d564958a2e8c864f9f54a1b0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/ports",
+          "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+          "uuid": "74899984-06-318132cbb35ad37d564958a2e8c864f9f54a1b0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 16,
+      "source": "Hero",
+      "target": "Hero (hero16)",
+      "key": "hero16",
+      "instances": [
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-05-9b39c600e08854349d07f3e46e89a311d687b6ba",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-06-23859119aa5d4cd216f8a84613cdaf42825ddd0e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[2]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-07-8e210b04b4dda6c6489e3da89b765ff3eae48136",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[3]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-08-c982b9c16d6e3926e2a473961c2419298dc0aaed",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[4]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-09-58245b942d8eb9c2df8fb3e6c6fbd5fe14093396",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[5]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-10-0cc3f04fa145be63522186cac13e694ea6d675ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[6]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-11-3401416835a0069926e94313a77bf639322f6880",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[7]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-12-e6e293524dfc5a4bd7cbd930057e9766a8aa7ea6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[8]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-05-9b39c600e08854349d07f3e46e89a311d687b6ba",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[1]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-06-23859119aa5d4cd216f8a84613cdaf42825ddd0e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[2]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-07-8e210b04b4dda6c6489e3da89b765ff3eae48136",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[3]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-08-c982b9c16d6e3926e2a473961c2419298dc0aaed",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[4]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-09-58245b942d8eb9c2df8fb3e6c6fbd5fe14093396",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[5]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-10-0cc3f04fa145be63522186cac13e694ea6d675ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[6]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-11-3401416835a0069926e94313a77bf639322f6880",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[7]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-12-e6e293524dfc5a4bd7cbd930057e9766a8aa7ea6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 17,
+      "source": "Cards",
+      "target": "Cards (cards17)",
+      "key": "cards17",
+      "instances": [
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-04-5462bc2c338420b104cb4df83f97bfa984db0a4e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-07-bfddd41acb12331996af7f24ac41e011848904c0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (social)",
+      "cluster": 18,
+      "source": "Embed",
+      "target": "Embed (embedSocial18)",
+      "key": "embedSocial18",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+          "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+          "uuid": "337a5b34-05-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+          "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+          "uuid": "340186ab-05-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/natural-resources",
+          "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+          "uuid": "3a8b0d56-05-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/ports",
+          "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+          "uuid": "74899984-05-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-05-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+          "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+          "uuid": "894b2258-05-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+          "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+          "uuid": "92d4a8f4-05-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+          "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+          "uuid": "9e61c60d-05-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-06-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 19,
+      "source": "Columns",
+      "target": "Columns (columns19)",
+      "key": "columns19",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-13-a5f821a0f1d342fd0caa7795e726e74baffb52a9",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (social)",
+      "cluster": 20,
+      "source": "Embed",
+      "target": "Embed (embedSocial20)",
+      "key": "embedSocial20",
+      "instances": [
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+          "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+          "uuid": "efa713e4-13-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport",
+          "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+          "uuid": "f6def6dd-18-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/materials/natural-resources",
+          "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+          "uuid": "3a8b0d56-06-318132cbb35ad37d564958a2e8c864f9f54a1b0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-06-318132cbb35ad37d564958a2e8c864f9f54a1b0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+          "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+          "uuid": "894b2258-06-318132cbb35ad37d564958a2e8c864f9f54a1b0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-11-aa1b4db918e1c9d2b7d97c577a87604f8fc75386",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-14-aa1b4db918e1c9d2b7d97c577a87604f8fc75386",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-11-aa1b4db918e1c9d2b7d97c577a87604f8fc75386",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-12-aa1b4db918e1c9d2b7d97c577a87604f8fc75386",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-12-aa1b4db918e1c9d2b7d97c577a87604f8fc75386",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-15-aa1b4db918e1c9d2b7d97c577a87604f8fc75386",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-14-aa1b4db918e1c9d2b7d97c577a87604f8fc75386",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-10-aa1b4db918e1c9d2b7d97c577a87604f8fc75386",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-14-aa1b4db918e1c9d2b7d97c577a87604f8fc75386",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 23,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered23)",
+      "key": "tableStripedBordered23",
+      "instances": [
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+          "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+          "uuid": "efa713e4-04-8c3d7218d182f250e8404ed15f25aaaf855eab82",
+          "xpath": "/html[1]/body[1]/header[1]/div[3]/div[3]/nav[1]/ul[1]"
+        },
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport",
+          "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+          "uuid": "f6def6dd-04-8c3d7218d182f250e8404ed15f25aaaf855eab82",
+          "xpath": "/html[1]/body[1]/header[1]/div[3]/div[3]/nav[1]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 24,
+      "source": "Hero",
+      "target": "Hero (hero24)",
+      "key": "hero24",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics",
+          "urlHash": "016917ec214d7bd50c77f8a0034a8208dcedf779",
+          "uuid": "016917ec-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-09-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg",
+          "urlHash": "0a2d6f02c8a7d3420bac5b54796d47f0bca36521",
+          "uuid": "0a2d6f02-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-09-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities",
+          "urlHash": "469db751759b59e7fe9ab03325b024c3be896444",
+          "uuid": "469db751-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure",
+          "urlHash": "824f2bb9d79405dd512336072863b94367132a25",
+          "uuid": "824f2bb9-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media",
+          "urlHash": "87c781e5553550aeb28666374ceb2e153ccee6ba",
+          "uuid": "87c781e5-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-12-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials",
+          "urlHash": "ea92c9efbdf6122b53f19b508ae9dcc877ce2f91",
+          "uuid": "ea92c9ef-04-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 25,
+      "source": "Accordion",
+      "target": "Accordion (accordion25)",
+      "key": "accordion25",
+      "instances": [
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+          "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+          "uuid": "efa713e4-03-a1f4a2715f8cc8046f6bc3332b2d1b3b04662135",
+          "xpath": "/html[1]/body[1]/header[1]/div[3]/div[3]/nav[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport",
+          "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+          "uuid": "f6def6dd-03-a1f4a2715f8cc8046f6bc3332b2d1b3b04662135",
+          "xpath": "/html[1]/body[1]/header[1]/div[3]/div[3]/nav[1]/div[1]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 26,
+      "source": "Hero",
+      "target": "Hero (hero26)",
+      "key": "hero26",
+      "instances": [
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+          "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+          "uuid": "efa713e4-10-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "source": "Hero",
+      "target": "Hero (hero27)",
+      "key": "hero27",
+      "instances": [
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-01-63bcada040a16a72fd02db803e4bc00cb86d964c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 28,
+      "source": "Embed",
+      "target": "Embed (embedVideo28)",
+      "key": "embedVideo28",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/water-treatment-plants",
+          "urlHash": "a38aa97607197acc2f8fb53cc6fdbb998741c0d7",
+          "uuid": "a38aa976-00-891822391030f0a93b128dea75da2db8acab7b9d",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[3]"
+        },
+        {
+          "url": "https://www.adani.com/contact-us",
+          "urlHash": "f26da2ca13773def7dec2737df971bcb75519c99",
+          "uuid": "f26da2ca-00-891822391030f0a93b128dea75da2db8acab7b9d",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 29,
+      "source": "Columns",
+      "target": "Columns (columns29)",
+      "key": "columns29",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/sports/adani-sportsline",
+          "urlHash": "9d9fb351c3f2de524f5aaf2b617c44389087449d",
+          "uuid": "9d9fb351-05-af38ea522d1de736a6b72dc6c8aaff6be42a5c07",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports",
+          "urlHash": "f9e2c1920bea64f38945617b508ede917d5b8495",
+          "uuid": "f9e2c192-05-af38ea522d1de736a6b72dc6c8aaff6be42a5c07",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 30,
+      "source": "Cards",
+      "target": "Cards (cards30)",
+      "key": "cards30",
+      "instances": [
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+          "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+          "uuid": "efa713e4-00-358cb063dec666dfdf141050924b36c4062ef72f",
+          "xpath": "/html[1]/body[1]/header[1]/div[3]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport",
+          "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+          "uuid": "f6def6dd-00-358cb063dec666dfdf141050924b36c4062ef72f",
+          "xpath": "/html[1]/body[1]/header[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 31,
+      "source": "Hero",
+      "target": "Hero (hero31)",
+      "key": "hero31",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics",
+          "urlHash": "016917ec214d7bd50c77f8a0034a8208dcedf779",
+          "uuid": "016917ec-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg",
+          "urlHash": "0a2d6f02c8a7d3420bac5b54796d47f0bca36521",
+          "uuid": "0a2d6f02-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability/board-structure-and-governance",
+          "urlHash": "2b57c043ec40d8c58a4d068bdc6868aa8b2ef73e",
+          "uuid": "2b57c043-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+          "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+          "uuid": "337a5b34-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+          "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+          "uuid": "340186ab-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/natural-resources",
+          "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+          "uuid": "3a8b0d56-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/airports",
+          "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+          "uuid": "3e98e9bc-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities",
+          "urlHash": "469db751759b59e7fe9ab03325b024c3be896444",
+          "uuid": "469db751-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/digital-services",
+          "urlHash": "6f5a55537d1393b6cb9c2952840a763ed6b98737",
+          "uuid": "6f5a5553-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+          "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+          "uuid": "72091ddd-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/ports",
+          "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+          "uuid": "74899984-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure",
+          "urlHash": "824f2bb9d79405dd512336072863b94367132a25",
+          "uuid": "824f2bb9-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media",
+          "urlHash": "87c781e5553550aeb28666374ceb2e153ccee6ba",
+          "uuid": "87c781e5-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+          "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+          "uuid": "894b2258-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/about-us/chairman-office",
+          "urlHash": "917f933356475ebf67b932b1c951bdce0807cf3e",
+          "uuid": "917f9333-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+          "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+          "uuid": "92d4a8f4-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports/adani-sportsline",
+          "urlHash": "9d9fb351c3f2de524f5aaf2b617c44389087449d",
+          "uuid": "9d9fb351-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+          "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+          "uuid": "9e61c60d-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/gas",
+          "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+          "uuid": "a91f7b48-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/broadcasting",
+          "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+          "uuid": "b3aca118-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-hydrogen",
+          "urlHash": "b6ff9349f57682971991d334fff73e09e8bdec6b",
+          "uuid": "b6ff9349-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/solar-manufacturing",
+          "urlHash": "b9d39ae7ef3ab39e03e98f5a46dad17f5a32e183",
+          "uuid": "b9d39ae7-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/copper",
+          "urlHash": "bcb7b5d7bb4db59529ec85a0d8d085a464e91c79",
+          "uuid": "bcb7b5d7-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/wind-turbine",
+          "urlHash": "c105c8e85fd38a927a13a8233fa098dcd827c7a4",
+          "uuid": "c105c8e8-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/pvc",
+          "urlHash": "e1169767ad5d73dd79804e37c612359c246513bc",
+          "uuid": "e1169767-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/edible-oils-food",
+          "urlHash": "e299386d52b5a0538c87fcb04340f3577f183408",
+          "uuid": "e299386d-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/real-estate/adani-realty",
+          "urlHash": "e8fa773dacc57e5d7b184e63a3e0bba4d930a33e",
+          "uuid": "e8fa773d-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials",
+          "urlHash": "ea92c9efbdf6122b53f19b508ae9dcc877ce2f91",
+          "uuid": "ea92c9ef-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports",
+          "urlHash": "f9e2c1920bea64f38945617b508ede917d5b8495",
+          "uuid": "f9e2c192-01-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 32,
+      "source": "Columns",
+      "target": "Columns (columns32)",
+      "key": "columns32",
+      "instances": [
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-09-eebd67cc407aef7bdc85ab365842ece211ec2e93",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[5]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 33,
+      "source": "Tabs",
+      "target": "Tabs (tabs33)",
+      "key": "tabs33",
+      "instances": [
+        {
+          "url": "https://www.adani.com/sustainability/board-structure-and-governance",
+          "urlHash": "2b57c043ec40d8c58a4d068bdc6868aa8b2ef73e",
+          "uuid": "2b57c043-03-7c693ec0a7b05539cf3f89db4fe0a8f6437402d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]/h3[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+          "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+          "uuid": "92d4a8f4-06-7e814daddf87443518c86591e5e7898a5397509b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h3[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+          "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+          "uuid": "9e61c60d-06-7e814daddf87443518c86591e5e7898a5397509b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h3[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 34,
+      "source": "Cards",
+      "target": "Cards (cards34)",
+      "key": "cards34",
+      "instances": [
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport",
+          "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+          "uuid": "f6def6dd-15-e8af221eb327dd9ef928dd48defeafd6509349b1",
+          "xpath": "/html[1]/body[1]/main[1]/section[9]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 35,
+      "source": "Cards",
+      "target": "Cards (cards35)",
+      "key": "cards35",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/airports",
+          "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+          "uuid": "3e98e9bc-06-6f47e0c056ac9dea58afbaebffa8c7a6cea39bee",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "cluster": 36,
+      "source": "Search",
+      "target": "Search (search36)",
+      "key": "search36",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+          "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+          "uuid": "340186ab-06-45d861218deee2ca56e047ab1f6da3dcbe50e375",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 37,
+      "source": "Hero",
+      "target": "Hero (hero37)",
+      "key": "hero37",
+      "instances": [
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-04-72f66742956361e005af0bdd4fe110ccb7f9537c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 38,
+      "source": "Cards",
+      "target": "Cards (cards38)",
+      "key": "cards38",
+      "instances": [
+        {
+          "url": "https://www.adani.com/ccsia-lucknow-airport",
+          "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+          "uuid": "f6def6dd-07-993860f4a22fc908a833f1008189164225ac30de",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 39,
+      "source": "Cards",
+      "target": "Cards (cards39)",
+      "key": "cards39",
+      "instances": [
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-07-350af6d4583b2c66aa25b949875c37fa1a5e9370",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 40,
+      "source": "Hero",
+      "target": "Hero (hero40)",
+      "key": "hero40",
+      "instances": [
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-09-63bcada040a16a72fd02db803e4bc00cb86d964c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 41,
+      "source": "Hero",
+      "target": "Hero (hero41)",
+      "key": "hero41",
+      "instances": [
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-02-7d62b45eb5fefccfbd66e3235dfe4d75b2a1d301",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 42,
+      "source": "Columns",
+      "target": "Columns (columns42)",
+      "key": "columns42",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-10-08417f59beb91cbd15afdd80babdce644769382f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-10-08417f59beb91cbd15afdd80babdce644769382f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-13-08417f59beb91cbd15afdd80babdce644769382f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 43,
+      "source": "Table (no header)",
+      "target": "Table (no header, tableNoHeader43)",
+      "key": "tableNoHeader43",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/airports",
+          "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+          "uuid": "3e98e9bc-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/disclaimer",
+          "urlHash": "57d2a54478e05c741ff83f5e6f8e01de3cdde010",
+          "uuid": "57d2a544-02-08417f59beb91cbd15afdd80babdce644769382f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/privacy-policy",
+          "urlHash": "80a0f69abf8b0d6ca09cac3ce5bedc175fde98dc",
+          "uuid": "80a0f69a-02-08417f59beb91cbd15afdd80babdce644769382f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-03-33b3a30852277f8418f9f63d4468f591fdcd83ca",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[3]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-05-fdf3830b9587096bbc4cbf59e1ed0553842f7481",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[4]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-10-58c3f0090f649e074fc9f071cdfc99fec97fc358",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[6]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-04-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-04-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 44,
+      "source": "Cards",
+      "target": "Cards (cards44)",
+      "key": "cards44",
+      "instances": [
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-07-07b68dc08d2ef5c0cb02eef03ff7e6996e51e040",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[4]/div[1]/div[1]/div[3]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 45,
+      "source": "Carousel",
+      "target": "Carousel (carousel45)",
+      "key": "carousel45",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/sports/adani-sportsline",
+          "urlHash": "9d9fb351c3f2de524f5aaf2b617c44389087449d",
+          "uuid": "9d9fb351-04-d9b5b5dc2b1d5ec6265715b0d0e30408de122116",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports",
+          "urlHash": "f9e2c1920bea64f38945617b508ede917d5b8495",
+          "uuid": "f9e2c192-04-d9b5b5dc2b1d5ec6265715b0d0e30408de122116",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 46,
+      "source": "Cards",
+      "target": "Cards (cards46)",
+      "key": "cards46",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-05-d864c70d25f830989e674715c00eda2b45583a5c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 47,
+      "source": "Columns",
+      "target": "Columns (columns47)",
+      "key": "columns47",
+      "instances": [
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-03-d864c70d25f830989e674715c00eda2b45583a5c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 48,
+      "source": "Hero",
+      "target": "Hero (hero48)",
+      "key": "hero48",
+      "instances": [
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-03-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-06-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 49,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages49)",
+      "key": "cardsNoImages49",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+          "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+          "uuid": "337a5b34-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+          "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+          "uuid": "340186ab-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/natural-resources",
+          "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+          "uuid": "3a8b0d56-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/pvc",
+          "urlHash": "e1169767ad5d73dd79804e37c612359c246513bc",
+          "uuid": "e1169767-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/agri-fmcg/edible-oils-food",
+          "urlHash": "e299386d52b5a0538c87fcb04340f3577f183408",
+          "uuid": "e299386d-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-08-18baa2c0b37bd0bc32ed65763b08f929e5479137",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/real-estate/adani-realty",
+          "urlHash": "e8fa773dacc57e5d7b184e63a3e0bba4d930a33e",
+          "uuid": "e8fa773d-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 50,
+      "source": "Hero",
+      "target": "Hero (hero50)",
+      "key": "hero50",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/media/broadcasting",
+          "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+          "uuid": "b3aca118-05-11a4e35e27ae73a1cd467577196ad25141bee744",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-12-4eca9ac70414d35eaba5166629df1cccd8e77c98",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 51,
+      "source": "Cards",
+      "target": "Cards (cards51)",
+      "key": "cards51",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-09-75dad22e08b4998947e3cade07a00b8dca31d599",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/transport-logistics/ports",
+          "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+          "uuid": "74899984-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-09-75dad22e08b4998947e3cade07a00b8dca31d599",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/media/broadcasting",
+          "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+          "uuid": "b3aca118-07-374dd1e4f83e417b322bf132bdd4e9da6b7481f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-09-75dad22e08b4998947e3cade07a00b8dca31d599",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-10-75dad22e08b4998947e3cade07a00b8dca31d599",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/real-estate/adani-realty",
+          "urlHash": "e8fa773dacc57e5d7b184e63a3e0bba4d930a33e",
+          "uuid": "e8fa773d-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 52,
+      "source": "Hero",
+      "target": "Hero (hero52)",
+      "key": "hero52",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+          "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+          "uuid": "72091ddd-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/gas",
+          "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+          "uuid": "a91f7b48-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-05-b05cb77c5bc96434d1feaf9677c73a7228a9bd92",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 53,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered53)",
+      "key": "tableStripedBordered53",
+      "instances": [
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-04-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-07-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 54,
+      "source": "Columns",
+      "target": "Columns (columns54)",
+      "key": "columns54",
+      "instances": [
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-04-2e8fcdb41dd14046de159b35e6a468f673612818",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 55,
+      "source": "Hero",
+      "target": "Hero (hero55)",
+      "key": "hero55",
+      "instances": [
+        {
+          "url": "https://www.adani.com/sustainability",
+          "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+          "uuid": "bb12376e-03-d864c70d25f830989e674715c00eda2b45583a5c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.adani.com/Sustainability",
+          "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+          "uuid": "e75cbaa8-03-d864c70d25f830989e674715c00eda2b45583a5c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 56,
+      "source": "Cards",
+      "target": "Cards (cards56)",
+      "key": "cards56",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-06-6f47e0c056ac9dea58afbaebffa8c7a6cea39bee",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+          "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+          "uuid": "72091ddd-06-6f47e0c056ac9dea58afbaebffa8c7a6cea39bee",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/gas",
+          "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+          "uuid": "a91f7b48-06-6f47e0c056ac9dea58afbaebffa8c7a6cea39bee",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+          "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+          "uuid": "e34f714d-06-6f47e0c056ac9dea58afbaebffa8c7a6cea39bee",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 57,
+      "source": "Accordion",
+      "target": "Accordion (accordion57)",
+      "key": "accordion57",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-11-9845af05c38d945bcc5226873df0ba0955bddb15",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-09-75dad22e08b4998947e3cade07a00b8dca31d599",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 58,
+      "source": "Cards",
+      "target": "Cards (cards58)",
+      "key": "cards58",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-07-a5b5b70a150bf995612e5230562ec4895ad9e1fc",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-07-a5b5b70a150bf995612e5230562ec4895ad9e1fc",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-05-b9180743f913e4db7f8809adfe701044dfe8a73a",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-10-a5b5b70a150bf995612e5230562ec4895ad9e1fc",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 59,
+      "source": "Carousel",
+      "target": "Carousel (carousel59)",
+      "key": "carousel59",
+      "instances": [
+        {
+          "url": "https://www.adani.com/about-us/chairman-office",
+          "urlHash": "917f933356475ebf67b932b1c951bdce0807cf3e",
+          "uuid": "917f9333-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "cluster": 60,
+      "source": "Search",
+      "target": "Search (search60)",
+      "key": "search60",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-08-ad4b521da984097a0103687ea33c7a851fba76b6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in/",
+          "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+          "uuid": "28f59c97-08-ad4b521da984097a0103687ea33c7a851fba76b6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-11-ad4b521da984097a0103687ea33c7a851fba76b6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 61,
+      "source": "Cards",
+      "target": "Cards (cards61)",
+      "key": "cards61",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/sports/adani-sportsline",
+          "urlHash": "9d9fb351c3f2de524f5aaf2b617c44389087449d",
+          "uuid": "9d9fb351-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/sports",
+          "urlHash": "f9e2c1920bea64f38945617b508ede917d5b8495",
+          "uuid": "f9e2c192-03-67945c2ea4c18cbe4135ae44b48ede2eb1f965d7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 62,
+      "source": "Carousel",
+      "target": "Carousel (carousel62)",
+      "key": "carousel62",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+          "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+          "uuid": "09df8332-12-85f051104602f92a26dc8ffe3f9599d6a52a805c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/section[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-10-03c5d8543f2d87ec6b3ca4cb70e544b3617ea208",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[6]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 63,
+      "source": "Columns",
+      "target": "Columns (columns63)",
+      "key": "columns63",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-02-1802651c789846c0d15ed88f620b523ebd8a9e64",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 64,
+      "source": "Embed",
+      "target": "Embed (embedVideo64)",
+      "key": "embedVideo64",
+      "instances": [
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-05-a5b5b70a150bf995612e5230562ec4895ad9e1fc",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 65,
+      "source": "Columns",
+      "target": "Columns (columns65)",
+      "key": "columns65",
+      "instances": [
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-06-ad4b521da984097a0103687ea33c7a851fba76b6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 66,
+      "source": "Columns",
+      "target": "Columns (columns66)",
+      "key": "columns66",
+      "instances": [
+        {
+          "url": "https://www.adani.com/about-us",
+          "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+          "uuid": "b94479db-08-bae6d9f86675a1ceef80c30fb19c24ba9e45f364",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 67,
+      "source": "Columns",
+      "target": "Columns (columns67)",
+      "key": "columns67",
+      "instances": [
+        {
+          "url": "https://www.adani.com/adani-foundation",
+          "urlHash": "2b3ed15c4d3acef5c2c80c16b55f9aa8bca16f34",
+          "uuid": "2b3ed15c-03-d864c70d25f830989e674715c00eda2b45583a5c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 68,
+      "source": "Cards",
+      "target": "Cards (cards68)",
+      "key": "cards68",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/energy-utilities",
+          "urlHash": "469db751759b59e7fe9ab03325b024c3be896444",
+          "uuid": "469db751-03-50520e1d13615299e8c919e1be0ed330cd6108f3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 69,
+      "source": "Hero",
+      "target": "Hero (hero69)",
+      "key": "hero69",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/data-center",
+          "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+          "uuid": "8e9202fc-04-92552b883ccf4f4b0269e415450d5a7e4c87f9d0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 70,
+      "source": "Hero",
+      "target": "Hero (hero70)",
+      "key": "hero70",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/infrastructure/transportation",
+          "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+          "uuid": "7bbea43d-08-18baa2c0b37bd0bc32ed65763b08f929e5479137",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 71,
+      "source": "Tabs",
+      "target": "Tabs (tabs71)",
+      "key": "tabs71",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/materials/cement",
+          "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+          "uuid": "e80097d0-07-318132cbb35ad37d564958a2e8c864f9f54a1b0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 72,
+      "source": "Cards",
+      "target": "Cards (cards72)",
+      "key": "cards72",
+      "instances": [
+        {
+          "url": "https://www.adani.com/businesses/media/broadcasting",
+          "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+          "uuid": "b3aca118-06-318132cbb35ad37d564958a2e8c864f9f54a1b0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 73,
+      "source": "Cards",
+      "target": "Cards (cards73)",
+      "key": "cards73",
+      "instances": [
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-04-93728d733301b8157bb0f0a2e714c177391f0695",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[3]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 74,
+      "source": "Tabs",
+      "target": "Tabs (tabs74)",
+      "key": "tabs74",
+      "instances": [
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-11-abdb2e9e11572f20a00e593edec82749ef7e2233",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[6]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 75,
+      "source": "Columns",
+      "target": "Columns (columns75)",
+      "key": "columns75",
+      "instances": [
+        {
+          "url": "https://www.adani.com/careers",
+          "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+          "uuid": "912da84d-12-387912493de68c763f6bd7536fba3552efcc46c8",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[6]/div[1]/div[1]/div[3]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 76,
+      "source": "Hero",
+      "target": "Hero (hero76)",
+      "key": "hero76",
+      "instances": [
+        {
+          "url": "https://www.adani.com/downloads",
+          "urlHash": "347b955fa6448d873c5464c87f72cb798547fd6c",
+          "uuid": "347b955f-02-6009e1dcad00470412cf10db00b87ec2e82f6baf",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 77,
+      "source": "Columns",
+      "target": "Columns (columns77)",
+      "key": "columns77",
+      "instances": [
+        {
+          "url": "https://www.adani.com/hi-in",
+          "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+          "uuid": "a3953add-05-d72b0ccc321f6d630e88995957bff24a0922af95",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 78,
+      "source": "Cards",
+      "target": "Cards (cards78)",
+      "key": "cards78",
+      "instances": [
+        {
+          "url": "https://www.adani.com/state-travel-guidelines",
+          "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+          "uuid": "8e06a347-03-4eca9ac70414d35eaba5166629df1cccd8e77c98",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.adani.com/",
+      "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+      "uuid": "08c44ec6-01-314b3e78d40722ed78b358127edf67506d137d4c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/",
+      "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+      "uuid": "08c44ec6-12-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+      "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+      "uuid": "09df8332-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
+      "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
+      "uuid": "09df8332-15-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/hi-in/",
+      "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+      "uuid": "28f59c97-01-314b3e78d40722ed78b358127edf67506d137d4c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/hi-in/",
+      "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
+      "uuid": "28f59c97-12-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/adani-foundation",
+      "urlHash": "2b3ed15c4d3acef5c2c80c16b55f9aa8bca16f34",
+      "uuid": "2b3ed15c-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/sustainability/board-structure-and-governance",
+      "urlHash": "2b57c043ec40d8c58a4d068bdc6868aa8b2ef73e",
+      "uuid": "2b57c043-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/thermal-power",
+      "urlHash": "337a5b34c882d600aac7852952a15dde095626fa",
+      "uuid": "337a5b34-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+      "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+      "uuid": "340186ab-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+      "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+      "uuid": "340186ab-07-7128f8d6b3b6fe3999d29afec3c6466cfe81c754",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/logistics",
+      "urlHash": "340186abc151e30c8a17aa02b8d7e7aed78e6520",
+      "uuid": "340186ab-08-26022a2a9d01ea0379e3f0c6eb2717d1633456ec",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]"
+    },
+    {
+      "url": "https://www.adani.com/downloads",
+      "urlHash": "347b955fa6448d873c5464c87f72cb798547fd6c",
+      "uuid": "347b955f-01-4a3142175001f955b0be60fc5b23c835748b3e1b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/materials/natural-resources",
+      "urlHash": "3a8b0d56ff5a81950fefe849b588b4f1a7523860",
+      "uuid": "3a8b0d56-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/infrastructure/airports",
+      "urlHash": "3e98e9bced3d56796efb2ccd7c35bd1a08c988e3",
+      "uuid": "3e98e9bc-02-7c2dede01c3c37a16f95130025b641f61628e9d2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.adani.com/disclaimer",
+      "urlHash": "57d2a54478e05c741ff83f5e6f8e01de3cdde010",
+      "uuid": "57d2a544-01-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/disclaimer",
+      "urlHash": "57d2a54478e05c741ff83f5e6f8e01de3cdde010",
+      "uuid": "57d2a544-03-0202a21e45514292810b00b6e98714599bcf6db7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[3]/p[1]"
+    },
+    {
+      "url": "https://www.adani.com/disclaimer",
+      "urlHash": "57d2a54478e05c741ff83f5e6f8e01de3cdde010",
+      "uuid": "57d2a544-04-7dd7e8da58f1bfbb964ff13186f842d2364fe278",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[3]/p[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/media/digital-services",
+      "urlHash": "6f5a55537d1393b6cb9c2952840a763ed6b98737",
+      "uuid": "6f5a5553-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/energy-solutions",
+      "urlHash": "72091ddd3d1920638d466e82a3f38efa0660bec7",
+      "uuid": "72091ddd-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/ports",
+      "urlHash": "74899984e94e1e0b545d8f503712bd6b1f2a091f",
+      "uuid": "74899984-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/infrastructure/transportation",
+      "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+      "uuid": "7bbea43d-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/infrastructure/transportation",
+      "urlHash": "7bbea43dd21835c1d556968ff9ee089ef1d5146a",
+      "uuid": "7bbea43d-13-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/privacy-policy",
+      "urlHash": "80a0f69abf8b0d6ca09cac3ce5bedc175fde98dc",
+      "uuid": "80a0f69a-01-bc8d3b12094b66afe06cd4add4cc3713d7bd99df",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/agri-fmcg/fruits",
+      "urlHash": "894b2258e852f76d145495c079761ae04c3f6220",
+      "uuid": "894b2258-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/state-travel-guidelines",
+      "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+      "uuid": "8e06a347-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/state-travel-guidelines",
+      "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+      "uuid": "8e06a347-05-1ff3c5a0a62a1865f78e51e03c04b91ae497e5d7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[2]/ol[2]/li[1]/ol[1]/li[2]/ol[1]/li[2]"
+    },
+    {
+      "url": "https://www.adani.com/state-travel-guidelines",
+      "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+      "uuid": "8e06a347-06-e5c8bf9ee593b38b9d222a7d87bd1abf421e4c86",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[2]/ol[2]/li[1]/ol[1]/li[2]/ol[1]/li[3]"
+    },
+    {
+      "url": "https://www.adani.com/state-travel-guidelines",
+      "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+      "uuid": "8e06a347-08-10d48b17ac24932434e30e850c4ea5a818940470",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[4]"
+    },
+    {
+      "url": "https://www.adani.com/state-travel-guidelines",
+      "urlHash": "8e06a3473e3c39cdcc19e5b467007552eeba3db0",
+      "uuid": "8e06a347-09-8db29bdb1d1e34fc28defb0f365f7f0f7799381d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[5]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/infrastructure/data-center",
+      "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+      "uuid": "8e9202fc-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/infrastructure/data-center",
+      "urlHash": "8e9202fcf4ee3dc0996b3a69688202db1dcf15e6",
+      "uuid": "8e9202fc-13-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/careers",
+      "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+      "uuid": "912da84d-08-a1ca68425be91115eb07abe68a44aeec4bbd879f",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[4]/div[1]/div[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/careers",
+      "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+      "uuid": "912da84d-13-8d41f4a2b7b0a1133bd801ffd6b91b02eccef8d2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[6]/div[1]/div[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/careers",
+      "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+      "uuid": "912da84d-14-509c21c3fea3bfe1039109f3239a2d2cc927f12a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[7]"
+    },
+    {
+      "url": "https://www.adani.com/careers",
+      "urlHash": "912da84dec57e6a52c6b8b2e3d90e1c0421bfa9f",
+      "uuid": "912da84d-16-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+      "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+      "uuid": "92d4a8f4-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+      "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+      "uuid": "92d4a8f4-07-86f50c0717654d5d9418983117d3e77ce3c1fced",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+      "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+      "uuid": "92d4a8f4-08-c629b3ee761fa66144836fece6e5fdaf51ccacd5",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/agri-logistics",
+      "urlHash": "92d4a8f4b9cc9a1b8e2b85a7d5c37f053e60cbe5",
+      "uuid": "92d4a8f4-09-1d7215029578ab21856a5c633c205edf200fe657",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/sports/adani-sportsline",
+      "urlHash": "9d9fb351c3f2de524f5aaf2b617c44389087449d",
+      "uuid": "9d9fb351-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+      "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+      "uuid": "9e61c60d-02-7c2dede01c3c37a16f95130025b641f61628e9d2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+      "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+      "uuid": "9e61c60d-07-86f50c0717654d5d9418983117d3e77ce3c1fced",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[1]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+      "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+      "uuid": "9e61c60d-08-c629b3ee761fa66144836fece6e5fdaf51ccacd5",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/transport-logistics/industrial-land",
+      "urlHash": "9e61c60d99f0a2d004b4b083a40cf4766e4d5b75",
+      "uuid": "9e61c60d-09-1d7215029578ab21856a5c633c205edf200fe657",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[3]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/water-treatment-plants",
+      "urlHash": "a38aa97607197acc2f8fb53cc6fdbb998741c0d7",
+      "uuid": "a38aa976-01-e078b13dcc3ae3362e863ffd96bf4355ada12a55",
+      "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[4]"
+    },
+    {
+      "url": "https://www.adani.com/hi-in",
+      "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+      "uuid": "a3953add-01-90417555f2cc238b462a5637418bae823a220f4c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/hi-in",
+      "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+      "uuid": "a3953add-02-1267ea4e64a06dbd13b7c2911bd9ad2ea4441360",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/hi-in",
+      "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+      "uuid": "a3953add-03-893210d3fd8db3245ffa68d31585438a831e379b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]"
+    },
+    {
+      "url": "https://www.adani.com/hi-in",
+      "urlHash": "a3953add814fa54f2386d20276dfe433db616604",
+      "uuid": "a3953add-15-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/gas",
+      "urlHash": "a91f7b489fddc096b16417430bc9d11296bc856d",
+      "uuid": "a91f7b48-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/media/broadcasting",
+      "urlHash": "b3aca1184bb9ec88ed1fa78645a05c311c0f4dd8",
+      "uuid": "b3aca118-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/green-hydrogen",
+      "urlHash": "b6ff9349f57682971991d334fff73e09e8bdec6b",
+      "uuid": "b6ff9349-02-405cac18a72b498f7f35135f9699f137b23d6a49",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[2]"
+    },
+    {
+      "url": "https://www.adani.com/about-us",
+      "urlHash": "b94479db1ac5bbf784606878fb8fd68b085d2c95",
+      "uuid": "b94479db-11-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/solar-manufacturing",
+      "urlHash": "b9d39ae7ef3ab39e03e98f5a46dad17f5a32e183",
+      "uuid": "b9d39ae7-02-7c2dede01c3c37a16f95130025b641f61628e9d2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.adani.com/sustainability",
+      "urlHash": "bb12376e271a4b2522d828431127e14d29e19227",
+      "uuid": "bb12376e-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/materials/copper",
+      "urlHash": "bcb7b5d7bb4db59529ec85a0d8d085a464e91c79",
+      "uuid": "bcb7b5d7-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/wind-turbine",
+      "urlHash": "c105c8e85fd38a927a13a8233fa098dcd827c7a4",
+      "uuid": "c105c8e8-02-7c2dede01c3c37a16f95130025b641f61628e9d2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/energy-utilities/wind-turbine",
+      "urlHash": "c105c8e85fd38a927a13a8233fa098dcd827c7a4",
+      "uuid": "c105c8e8-03-23d9aeb65458682d2173ba53428d92e4db8f116a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[5]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/materials/pvc",
+      "urlHash": "e1169767ad5d73dd79804e37c612359c246513bc",
+      "uuid": "e1169767-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/agri-fmcg/edible-oils-food",
+      "urlHash": "e299386d52b5a0538c87fcb04340f3577f183408",
+      "uuid": "e299386d-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/infrastructure/defence-aerospace",
+      "urlHash": "e34f714d35a221386e968244eab25cd970d9b9e4",
+      "uuid": "e34f714d-02-7c2dede01c3c37a16f95130025b641f61628e9d2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.adani.com/Sustainability",
+      "urlHash": "e75cbaa83318eecf5c87b74855eabcc861f395e1",
+      "uuid": "e75cbaa8-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/materials/cement",
+      "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+      "uuid": "e80097d0-02-7c2dede01c3c37a16f95130025b641f61628e9d2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/materials/cement",
+      "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+      "uuid": "e80097d0-03-23d9aeb65458682d2173ba53428d92e4db8f116a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[5]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/materials/cement",
+      "urlHash": "e80097d0b055b90ec9f61802e0d8c29e183da9d1",
+      "uuid": "e80097d0-15-b897aa18e37e96fc83df7ea4e60d6c2583401afe",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/real-estate/adani-realty",
+      "urlHash": "e8fa773dacc57e5d7b184e63a3e0bba4d930a33e",
+      "uuid": "e8fa773d-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+      "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+      "uuid": "efa713e4-01-c1bc356065b7a7bcc0bca862b6f04e51c4200e25",
+      "xpath": "/html[1]/body[1]/header[1]/div[3]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+      "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+      "uuid": "efa713e4-02-718d513731338798cd93aad9f301d43da2be4e8d",
+      "xpath": "/html[1]/body[1]/header[1]/div[3]/div[3]/nav[1]/a[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+      "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+      "uuid": "efa713e4-05-c12f3a0d63e9a07764b9a8c999c8c3298487cb85",
+      "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/ul[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+      "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+      "uuid": "efa713e4-06-a7bb3958d4c625088741df435b3a6495a1eefe4d",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+      "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+      "uuid": "efa713e4-07-3c9b5a2d18e7d33e29cc6c28785e4d03e0e08cf3",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+      "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+      "uuid": "efa713e4-08-6c86158b751cbb1efa5ecc3af4352bfc87271690",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+      "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+      "uuid": "efa713e4-09-68c43fe2a4d52037bd4c0e73b2c3d108cc697f85",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport/about-us",
+      "urlHash": "efa713e4f92023240595db4b233dd5e9e92e600e",
+      "uuid": "efa713e4-12-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/contact-us",
+      "urlHash": "f26da2ca13773def7dec2737df971bcb75519c99",
+      "uuid": "f26da2ca-01-e078b13dcc3ae3362e863ffd96bf4355ada12a55",
+      "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[4]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-01-c1bc356065b7a7bcc0bca862b6f04e51c4200e25",
+      "xpath": "/html[1]/body[1]/header[1]/div[3]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-02-718d513731338798cd93aad9f301d43da2be4e8d",
+      "xpath": "/html[1]/body[1]/header[1]/div[3]/div[3]/nav[1]/a[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-05-a3cdcfc73b99501c720e214c85ec4ce4c33e4a8d",
+      "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-06-06fc53fb5b1a779e6e9b97afce395d525af27f67",
+      "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-08-045e8db173ca22951665ee5910ab005c2698ce44",
+      "xpath": "/html[1]/body[1]/main[1]/section[3]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-09-adb0fa4baf067328327dea52c0312f0d5bf0b7f3",
+      "xpath": "/html[1]/body[1]/main[1]/section[4]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-10-2e0af3e7e5f21c5db5d429ecfc4f706468f2cb49",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/ul[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-11-3704dbd533f4600529f09dd5d3c4e1cc81d1e872",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-12-9234fe66fc919b0888da02eefd0ab096cb58750f",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-13-af0e807b766b5d6e9e94206c2a6c1ef6c62d27c1",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-14-0c4991d1e66a5207dfb93be20034b79f80ab60f7",
+      "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/a[1]/div[1]"
+    },
+    {
+      "url": "https://www.adani.com/ccsia-lucknow-airport",
+      "urlHash": "f6def6ddcdbd440b185b48163850f77088179a87",
+      "uuid": "f6def6dd-17-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.adani.com/businesses/sports",
+      "urlHash": "f9e2c1920bea64f38945617b508ede917d5b8495",
+      "uuid": "f9e2c192-02-494bdb6e4bda012740ec09a76b6818e9245fcfc0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]"
+    }
+  ]
+}
