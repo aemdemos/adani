@@ -1,3 +1,4 @@
+
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -29,5 +30,203 @@
   .columns > div > div {
     flex: 1;
     order: unset;
+  }
+}
+
+.columns.columns25 {
+  background: linear-gradient(90deg, #f7f8fa 65%, #ecf1f7 100%);
+  padding: 0;
+  width: 100vw;
+  min-height: 460px;
+  font-family: 'Inter', 'Montserrat', Arial, sans-serif;
+}
+  
+.columns.columns25 > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 36px;
+  width: 100vw;
+  min-height: 460px;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* --- LEFT COLUMN: STACKED --- */
+.columns.columns25 > div > div:first-child {
+  flex: 0 0 180px;
+  min-width: 150px;
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  height: 200px;
+  box-sizing: border-box;
+  padding-left: 0;
+  margin-left: 0;
+  margin-right: 0;
+  gap: 9px;
+  position: relative;
+}
+
+/* LOGO: slightly larger and less space below */
+.columns.columns25 > div > div:first-child::before {
+  content: "adani";
+  display: block;
+  font-size: 3rem;
+  font-family: inherit;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  margin-bottom: 0;
+  background: linear-gradient(90deg, #1976e5 0%, #79198f 56%, #da276d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  width: 100%;
+  line-height: 1.10;
+  text-align: left;
+  padding-left: 2px;
+}
+
+/* SOCIAL ICONS: narrower, perfectly centered under logo */
+.columns.columns25 > div > div:first-child::after {
+  content: "";
+  display: block;
+  width: 112px;
+  height: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 2px;
+  background: url('data:image/svg+xml;utf8,<svg width="112" height="24" xmlns="http://www.w3.org/2000/svg"><g><circle cx="12" cy="12" r="8" fill="black"/><circle cx="32" cy="12" r="8" fill="black"/><circle cx="52" cy="12" r="8" fill="black"/><circle cx="72" cy="12" r="8" fill="black"/><circle cx="92" cy="12" r="8" fill="black"/><circle cx="112" cy="12" r="8" fill="black"/></g></svg>');
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  left: 0;
+}
+
+.columns.columns25 > div > div:first-child .social-underline,
+.columns.columns25 > div > div:first-child .fake-socials {
+  display: none;
+}
+
+/* UNDERLINE: thinner, closer to icons, matches icon row width */
+.columns.columns25 > div > div:first-child::after {
+  box-shadow: 0 20px 0 0 #79198F;
+  border-radius: 0;
+}
+
+/* --- RIGHT COLUMN: NAVIGATION --- */
+.columns.columns25 > div > div:last-child {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  width: 100%;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.columns.columns25 > div > div:last-child > p {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  min-width: 128px;
+  margin: 0;
+  padding: 0;
+  flex-wrap: nowrap;
+}
+
+/* Titles: spacing below */
+.columns.columns25 > div > div:last-child > p > a:first-child {
+  font-weight: 700;
+  color: #000;
+  font-size: 1.12rem;
+  margin-bottom: 15px;
+  margin-top: 0;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  pointer-events: none;
+  cursor: default;
+  width: 100%;
+  display: block;
+}
+
+/* Links */
+.columns.columns25 > div > div:last-child > p > a:not(:first-child) {
+  color: #53575a !important;
+  font-weight: 400;
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 9px;
+  text-decoration: none;
+  line-height: 1.7;
+  transition: color 0.15s;
+  width: 100%;
+}
+
+.columns.columns25 > div > div:last-child > p > a:last-child {
+  margin-bottom: 0;
+}
+
+/* Hover etc */
+.columns.columns25 > div > div:last-child > p > a:first-child:hover,
+.columns.columns25 > div > div:last-child > p > a:first-child:active {
+  text-decoration: none;
+  color: #000;
+  cursor: default;
+}
+.columns.columns25 > div > div:last-child > p > a:not(:first-child):hover,
+.columns.columns25 > div > div:last-child > p > a:not(:first-child):focus {
+  color: #79198F !important;
+  text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+  .columns.columns25 > div {
+    flex-direction: column;
+    gap: 32px;
+    max-width: 100%;
+    padding: 0 12px;
+    align-items: flex-start;
+    min-height: unset;
+  }
+  .columns.columns25 > div > div:first-child {
+    margin-bottom: 24px;
+    max-width: 100%;
+    min-width: 0;
+    height: auto;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .columns.columns25 > div > div:last-child {
+    flex-direction: column;
+    gap: 16px;
+  }
+  .columns.columns25 > div > div:last-child > p {
+    min-width: 0;
+  }
+}
+
+/* Nav links and titles left aligned */
+.columns.columns25 > div > div:last-child > p,
+.columns.columns25 > div > div:last-child > p > a {
+  text-align: left;
+}
+
+.columns.columns25 > div > div:last-child > p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Slight font adjust for mobile */
+@media (max-width: 600px) {
+  .columns.columns25 > div > div:last-child > p > a,
+  .columns.columns25 > div > div:last-child > p > a:not(:first-child) {
+    font-size: 0.97rem;
   }
 }
