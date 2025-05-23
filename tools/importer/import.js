@@ -82,6 +82,9 @@ import carousel16Parser from './parsers/carousel16.js';
 import columns67Parser from './parsers/columns67.js';
 import columns66Parser from './parsers/columns66.js';
 import carousel59Parser from './parsers/carousel59.js';
+import cards81Parser from './parsers/cards81.js';
+import carousel80Parser from './parsers/carousel80.js';
+import carousel82Parser from './parsers/carousel82.js';
 import cards62Parser from './parsers/cards62.js';
 import tabs73Parser from './parsers/tabs73.js';
 import embedSocial75Parser from './parsers/embedSocial75.js';
@@ -176,6 +179,9 @@ const parsers = {
   tabs73: tabs73Parser,
   embedSocial75: embedSocial75Parser,
   columns70: columns70Parser,
+  cards81: cards81Parser,
+  carousel80: carousel80Parser,
+  carousel82: carousel82Parser,
 };
 
 const transformers = {
