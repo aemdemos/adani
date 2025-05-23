@@ -33,7 +33,6 @@ import columns25Parser from './parsers/columns25.js';
 import cards28Parser from './parsers/cards28.js';
 import hero27Parser from './parsers/hero27.js';
 import hero2Parser from './parsers/hero2.js';
-import cards3Parser from './parsers/cards3.js';
 import cards18Parser from './parsers/cards18.js';
 import cards33Parser from './parsers/cards33.js';
 import embedVideo32Parser from './parsers/embedVideo32.js';
@@ -67,7 +66,7 @@ import tableStripedBordered52Parser from './parsers/tableStripedBordered52.js';
 import embedVideo12Parser from './parsers/embedVideo12.js';
 import carousel63Parser from './parsers/carousel63.js';
 import columns57Parser from './parsers/columns57.js';
-import carousel61Parser from './parsers/carousel61.js';
+import hero61Parser from './parsers/hero61.js';
 import columns65Parser from './parsers/columns65.js';
 import hero56Parser from './parsers/hero56.js';
 import carousel60Parser from './parsers/carousel60.js';
@@ -87,7 +86,6 @@ import cards62Parser from './parsers/cards62.js';
 import tabs73Parser from './parsers/tabs73.js';
 import embedSocial75Parser from './parsers/embedSocial75.js';
 import columns70Parser from './parsers/columns70.js';
-import carousel1Parser from './parsers/carousel1.js';
 import headerParser from './parsers/header.js';
 import metadataParser from './parsers/metadata.js';
 import cleanupTransformer from './transformers/cleanup.js';
@@ -125,7 +123,6 @@ const parsers = {
   cards28: cards28Parser,
   hero27: hero27Parser,
   hero2: hero2Parser,
-  cards3: cards3Parser,
   cards18: cards18Parser,
   cards33: cards33Parser,
   embedVideo32: embedVideo32Parser,
@@ -159,7 +156,7 @@ const parsers = {
   embedVideo12: embedVideo12Parser,
   carousel63: carousel63Parser,
   columns57: columns57Parser,
-  carousel61: carousel61Parser,
+  hero61: hero61Parser,
   columns65: columns65Parser,
   hero56: hero56Parser,
   carousel60: carousel60Parser,
@@ -179,7 +176,6 @@ const parsers = {
   tabs73: tabs73Parser,
   embedSocial75: embedSocial75Parser,
   columns70: columns70Parser,
-  carousel1: carousel1Parser,
 };
 
 const transformers = {
