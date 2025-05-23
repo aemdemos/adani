@@ -615,18 +615,57 @@
   ],
   "blocks": [
     {
-      "name": "Hero",
-      "cluster": 1,
-      "source": "Hero",
-      "target": "Hero (hero1)",
-      "key": "hero1",
+      "name": "Carousel",
+      "cluster": 80,
+      "source": "Carousel",
+      "target": "Carousel (carousel80)",
+      "key": "carousel80",
       "instances": [
         {
           "url": "https://www.adani.com/",
           "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
           "uuid": "08c44ec6-06-2e8fcdb41dd14046de159b35e6a468f673612818",
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 81,
+      "source": "Cards",
+      "target": "Cards (cards81)",
+      "key": "cards81",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-08-ad4b521da984097a0103687ea33c7a851fba76b6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 82,
+      "source": "Carousel",
+      "target": "Carousel (carousel82)",
+      "key": "carousel82",
+      "instances": [
+        {
+          "url": "https://www.adani.com/",
+          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
+          "uuid": "08c44ec6-02-1802651c789846c0d15ed88f620b523ebd8a9e64",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 1,
+      "source": "Hero",
+      "target": "Hero (hero1)",
+      "key": "hero1",
+      "instances": [
         {
           "url": "https://www.adani.com/hi-in/",
           "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
@@ -669,12 +708,6 @@
       "target": "Embed (embedVideo3)",
       "key": "embedVideo3",
       "instances": [
-        {
-          "url": "https://www.adani.com/",
-          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
-          "uuid": "08c44ec6-08-ad4b521da984097a0103687ea33c7a851fba76b6",
-          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]"
-        },
         {
           "url": "https://www.adani.com/businesses/energy-utilities/green-energy",
           "urlHash": "09df8332dbe33b6187332749a827196e4dc78dae",
@@ -3045,12 +3078,6 @@
       "target": "Hero (hero61)",
       "key": "hero61",
       "instances": [
-        {
-          "url": "https://www.adani.com/",
-          "urlHash": "08c44ec601d25fdaecc58fb2c3e48ff41d6e2852",
-          "uuid": "08c44ec6-02-1802651c789846c0d15ed88f620b523ebd8a9e64",
-          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
         {
           "url": "https://www.adani.com/hi-in/",
           "urlHash": "28f59c970556e5903b4530a80c3e07c302845200",
