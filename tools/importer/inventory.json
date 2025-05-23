@@ -615,11 +615,11 @@
   ],
   "blocks": [
     {
-      "name": "Hero",
+      "name": "Carousel",
       "cluster": 1,
-      "source": "Hero",
-      "target": "Hero (hero1)",
-      "key": "hero1",
+      "source": "Carousel",
+      "target": "Carousel (carousel1)",
+      "key": "carousel1",
       "instances": [
         {
           "url": "https://www.adani.com/",
@@ -663,11 +663,11 @@
       ]
     },
     {
-      "name": "Embed (video)",
+      "name": "Cards",
       "cluster": 3,
-      "source": "Embed",
-      "target": "Embed (embedVideo3)",
-      "key": "embedVideo3",
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
       "instances": [
         {
           "url": "https://www.adani.com/",
@@ -3039,11 +3039,11 @@
       ]
     },
     {
-      "name": "Hero",
+      "name": "Carousel",
       "cluster": 61,
-      "source": "Hero",
-      "target": "Hero (hero61)",
-      "key": "hero61",
+      "source": "Carousel",
+      "target": "Carousel (carousel61)",
+      "key": "carousel61",
       "instances": [
         {
           "url": "https://www.adani.com/",
