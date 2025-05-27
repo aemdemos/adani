@@ -16,6 +16,26 @@ function adjustImageUrls(main, url, current) {
   [...main.querySelectorAll('img')].forEach((img) => {
     let src = img.getAttribute('src');
     if (src) {
+      // remove all parameters from image URLs (after .png, .jpg, .jpeg, .gif, .webp, .svg, .bmp, .ico)
+      const imageExtensions = /\.(png|jpg|jpeg|gif|webp|svg|bmp|ico)(\?|&)/i;
+      if (imageExtensions.test(src)) {
+        try {
+          const urlObj = new URL(src);
+          // check if the pathname ends with an image extension
+          const pathExtensions = /\.(png|jpg|jpeg|gif|webp|svg|bmp|ico)$/i;
+          if (pathExtensions.test(urlObj.pathname)) {
+            // remove all query parameters and hash for image files
+            src = `${urlObj.origin}${urlObj.pathname}`;
+            img.setAttribute('src', src);
+          }
+        } catch (e) {
+          // if URL parsing fails, try simple string replacement as fallback
+          // remove everything after image extension including ? and # and &amp;
+          src = src.replace(/(\.(png|jpg|jpeg|gif|webp|svg|bmp|ico))(\?|&|#).*$/i, '$1');
+          img.setAttribute('src', src);
+        }
+      }
+
       // handle relative URLs that are not starting with ./ or / or ../
       try {
         /* eslint-disable no-new */
