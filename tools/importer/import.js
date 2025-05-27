@@ -396,7 +396,7 @@ export default {
 
     // before transform hook
     WebImporter.Import.transform(TransformHook.beforeTransform, main, { ...source, inventory });
-
+    WebImporter.rules.transformBackgroundImages(main, document);
     // perform the transformation
     let path = null;
     const sourceUrl = new URL(originalURL);
